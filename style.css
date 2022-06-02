@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+h1 {
+    color: #ffffff;
+}
+
+div {
+    text-align: center;
+}
+
+button {
+    height: 2.2em;
+    width: 5.5em;
+    border: none;
+    color: #ffffff;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.iniciar {
+    background-color: green;
+}
+
+.pausar {
+    background-color: gray;
+}
+
+.parar {
+    background-color: red;
+}
